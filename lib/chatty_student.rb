@@ -1,3 +1,3 @@
-def Chatty_Student
+class Chatty_Student
   
 end
